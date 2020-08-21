@@ -1,5 +1,6 @@
 {
 	"name":"Zoom Zapper",
 	"tags":["Cyber","Tools"],
-	"description":"A chrome extension that redirects all Zoom join links to the web client, never allowing an attempt at launching the desktop app, lowering risk."
+	"description":"A chrome extension that redirects all Zoom join links to the web client, never allowing an attempt at launching the desktop app, lowering risk.",
+	"date":"April 2020"
 }
